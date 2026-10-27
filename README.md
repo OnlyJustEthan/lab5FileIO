@@ -11,6 +11,12 @@ fstream
 ## Prototypes
 ```
 void printWords(int num1, int num2, string word);
+stringstream ss;
+stringstream converter;
+string holder;
+int num1;
+int num2;
+string word;
 ```
 
 ## Functions
