@@ -1,8 +1,12 @@
 # lab5FileIO Algorithm
 
 ## Includes:
+```
 cstdlib
 iostream
+sstream
+fstream
+```
 
 ## Prototypes
 ```
