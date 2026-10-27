@@ -13,6 +13,7 @@ fstream
 void printWords(int num1, int num2, string word);
 stringstream ss;
 stringstream converter;
+string row;
 string holder;
 int num1;
 int num2;
